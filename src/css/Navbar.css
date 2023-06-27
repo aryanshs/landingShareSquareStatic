@@ -1,0 +1,36 @@
+.navContainer .navLinks {
+  color: #645d5d;
+}
+
+.logoImage {
+  margin-right: 3%;
+  width: 22%;
+}
+
+.brandName {
+  width: 80%;
+}
+
+.logoBrandDiv {
+  width: 20%;
+  margin-right: 5%;
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+.navLinksDiv {
+  display: flex;
+  align-items: center;
+}
+
+.signUpDiv {
+  margin-left: auto;
+}
+
+.signUpDiv a {
+  text-decoration: none;
+  color: #00adb5;
+  font-weight: 800;
+}
